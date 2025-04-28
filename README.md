@@ -7,7 +7,8 @@
 - Concepts
 - Discord
 - Greenshot
-- Laragon
+- [Laragon v6](https://github.com/leokhoa/laragon/releases/tag/6.0.0)
+  - [Tutorial](https://io.bikegremlin.com/35435/laragon-6-php-8-4-install/)
 - MS365
   - Powerpoint
   - Word
