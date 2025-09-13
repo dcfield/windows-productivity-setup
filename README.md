@@ -1,6 +1,6 @@
 # This is my productivity setup in Windows
 ## Software
-- Miro
+- [Miro](https://miro.com/apps/)
 - Firefox
 - Git
 - CursorAI
